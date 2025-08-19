@@ -30,10 +30,6 @@ This project lets you add incomes and expenses, calculates your total income, to
 - **CSS3** – Styling
 - **JavaScript (ES6)** – Functionality & Object practice
 
----
-
-## 📸 Screenshot
-(Add a screenshot of your app once you run it)
 
 ---
 
